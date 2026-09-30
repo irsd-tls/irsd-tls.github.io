@@ -1,4 +1,4 @@
-baseURL = "https://irsd-tls.github.io/"
+baseURL = "https://www.irsd.fr/"
 # languageCode = "en-us"
 title = "IRSD"
 theme = "hugo-arcana"
