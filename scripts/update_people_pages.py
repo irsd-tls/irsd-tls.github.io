@@ -94,7 +94,7 @@ def updatePage(page_path, ainfo, lang='fr'):
                 if field == 'alumni_position' and lang == 'en' and 'alumni_position_en' in ainfo:
                     value = ainfo['alumni_position_en']
                 header_fields.add(field)
-                out_l.append('{}: {}\n'.format(field, value))
+                out_l.append('{}: "{}"\n'.format(field, value))
             else:
                 out_l.append(line)
     # write output file

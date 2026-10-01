@@ -1,16 +1,16 @@
 ---
-title: Romain Gauthier
-layout: people
-team: eq1
-image: images/people/romain.gauthier.png
-email: romain.gauthier@inserm.fr
-phone: 
-room: 
-position: PhD Student
-alumni: 
-subteam: 
-selected_dois: 
-alumni_position: 
+title: "Romain Gauthier"
+layout: "people"
+team: "eq1"
+image: "images/people/romain.gauthier.png"
+email: "romain.gauthier@inserm.fr"
+phone: ""
+room: ""
+position: "PhD Student"
+alumni: ""
+subteam: ""
+selected_dois: ""
+alumni_position: ""
 ---
 
 

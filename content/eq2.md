@@ -26,19 +26,6 @@ Keywords: Commensalisme et pathogénie bactériennes, Microbiote intestinal​
 
 {{< people-list >}}
 
-### Toxines et cancer
-
-{{< people-list-subteam toxcan >}}
-
-### Du commensalisme à la pathogénicité
-
-{{< people-list-subteam compath >}}
-
-### Bactéries pathogènes et résistance aux antibiotiques
-
-{{< people-list-subteam pathres >}}
-
-
 ## Publications
 
 {{< team-publications >}}

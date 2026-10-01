@@ -28,18 +28,6 @@ Several research axes are being developed:
 
 {{< people-list >}}
 
-### Toxins and cancer
-
-{{< people-list-subteam toxcan >}}
-
-### From commensalism to pathogenicity
-
-{{< people-list-subteam compath >}}
-
-### Pathogenic bacteria and antibiotic resistance
-
-{{< people-list-subteam pathres >}}
-
 ## Publications
 
 {{< team-publications >}}

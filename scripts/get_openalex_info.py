@@ -34,7 +34,8 @@ with open('people.csv', 'rt') as inf:
         ainfo['team'] = line[heads.index('team')]
         ainfo['id'] = line[heads.index('id')]
         if line[heads.index('oa_id')] != '':
-            auth_info[line[heads.index('oa_id')]] = ainfo
+            oa_id = line[heads.index('oa_id')]
+            auth_info[oa_id.lower()] = ainfo
 
 print('{} authors with a OpenAlex ID.'.format(len(auth_info)))
 
@@ -98,13 +99,20 @@ new_dois = set()
 for doi in sel_dois:
     if 'https://doi.org/' + doi not in cache:
         new_dois.add(doi)
+new_dois = list(new_dois)
 print('{} selected DOIs not in the cache.'.format(len(new_dois)))
+print(new_dois)
 if len(new_dois) > 0:
     print('Querying OpenAlex...')
-    doi_works = pyalex.Works().filter_or(doi=list(new_dois)).get()
-    for ww in doi_works:
-        print(ww['doi'])
-        cache[ww['doi']] = ww
+    while new_dois:
+        cur_dois = []
+        while new_dois and len(cur_dois) < 10:
+            cur_dois.append(new_dois.pop())
+        doi_works = pyalex.Works().filter_or(doi=cur_dois).get()
+        for ww in doi_works:
+            print(ww['doi'])
+            cache[ww['doi']] = ww
+        cur_dois = []
     # update cache
     with open('cache.openalex.json', 'wt') as cache_outf:
         json.dump(cache, cache_outf)
@@ -129,6 +137,8 @@ for doi in cache:
     swork['year'] = work['publication_year']
     swork['type'] = work['type']
     swork['journal'] = work['primary_location']['raw_source_name']
+    if swork['journal'] is not None:
+        swork['journal'] = swork['journal'].replace('&amp;', '&')
     # authors
     auths = []
     for oa_auth in work['authorships']:

@@ -1,18 +1,18 @@
 ---
-title: Stéphane Muños
-layout: people
-team: eq4
-image: images/people/stephane.munos.png
-email: stephane.munos@inserm.fr
-orcid: 0000-0003-0261-2759
-github: smunos31
-phone: 
-room: 
-position: IR
-alumni: 
-subteam: 
-selected_dois: 
-alumni_position: 
+title: "Stéphane Muños"
+layout: "people"
+team: "eq4"
+image: "images/people/stephane.munos.png"
+email: "stephane.munos@inserm.fr"
+orcid: "0000-0003-0261-2759"
+github: "smunos31"
+phone: ""
+room: ""
+position: "IR"
+alumni: ""
+subteam: ""
+selected_dois: ""
+alumni_position: ""
 ---
 
 Stéphane Munos began his university studies at the University of Toulouse Paul Sabatier in 1995, specializing in plant biotechnology. During his studies, he completed two internships at Novartis Seeds (now Syngenta Seeds, France). He first worked on rapeseed transformation under the supervision of Jan Gielen and subsequently developed PCR markers for marker-assisted selection of sunflower downy mildew resistance under the supervision of Fermin Azanza.

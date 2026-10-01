@@ -1,19 +1,19 @@
 ---
-title: Jean Monlong
-layout: people
-team: eq4
-image: images/people/jean.monlong.webp
-email: jean.monlong@inserm.fr
-website: https://jmonlong.github.io/
-github: jmonlong
-orcid: 0000-0002-9737-5516
-phone: 05 62 74 45 30
-room: B522
-position: Researcher
-alumni: 
-subteam: 
-selected_dois: 10.1038/s41586-023-05896-x;10.1126/science.abg8871;10.1186/s13059-020-1941-7
-alumni_position: 
+title: "Jean Monlong"
+layout: "people"
+team: "eq4"
+image: "images/people/jean.monlong.webp"
+email: "jean.monlong@inserm.fr"
+website: "https://jmonlong.github.io/"
+github: "jmonlong"
+orcid: "0000-0002-9737-5516"
+phone: "05 62 74 45 30"
+room: "B522"
+position: "Researcher"
+alumni: ""
+subteam: ""
+selected_dois: "10.1038/s41586-023-05896-x;10.1126/science.abg8871;10.1186/s13059-020-1941-7"
+alumni_position: ""
 ---
 
 ## Mini-CV
