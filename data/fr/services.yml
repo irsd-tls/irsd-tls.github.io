@@ -29,6 +29,10 @@ items:
     email: augustin.porquet@inserm.fr
     roles:
       - Activités de gestion et d'administration
+      - Organisation des missions
+      - Accueil des stagiaires et des collaborateurs
+      - Suivi financier des Frais Généraux
+      - Référent en communication
   - type: people-card
     heading: Informaticien de site / Aide aux utilisateurs​
     image: images/people/generic.png
@@ -53,6 +57,7 @@ items:
       - Réalisation des mises en œuvre des appels d’offre des produits référencés. 
   - type: people-card
     heading: Laverie
+    name: Maxime Fofana
     image: images/people/generic.png
     email: laverie.infinity-irsd@inserm.fr
     content: Le service Laverie, composé d’une personne, est mutualisé CPTP-IRSD, est principalement en charge

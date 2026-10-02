@@ -29,6 +29,10 @@ items:
     email: augustin.porquet@inserm.fr
     roles:
       - Management and administrative activities
+      - Mission planning
+      - Onboarding of interns and employees
+      - Financial monitoring of general expenses
+      - Communication officer
   - type: people-card
     heading: IT Specialist / User Support
     image: images/people/generic.png
@@ -53,6 +57,7 @@ items:
       - Implementation of tenders for referenced products
   - type: people-card
     heading: Laundry/cleaning Service
+    name: Maxime Fofana
     image: images/people/generic.png
     email: laverie.infinity-irsd@inserm.fr
     content: "The laundry/cleaning service, staffed by one person and shared between Infinity and IRSD, is primarily responsible for:"
