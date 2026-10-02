@@ -32,18 +32,26 @@ def createPage(page_path, ainfo, lang='fr'):
     # other optional fields
     if 'subteam' in ainfo:
         outf.write('subteam: "{}"\n'.format(ainfo['subteam']))
+    if 'team2' in ainfo:
+        outf.write('team2: "{}"\n'.format(ainfo['subteam']))
     if 'email' in ainfo:
         outf.write('email: "{}"\n'.format(ainfo['email']))
     if 'phone' in ainfo:
         outf.write('phone: "{}"\n'.format(ainfo['phone']))
     if 'room' in ainfo:
         outf.write('room: "{}"\n'.format(ainfo['room']))
+    if 'rank' in ainfo and int(ainfo['rank']) != 1:
+        outf.write('weight: "{}"\n'.format(ainfo['rank']))
     if 'alumni' in ainfo:
         outf.write('alumni: "{}"\n'.format(ainfo['alumni']))
     if 'position' in ainfo and lang == 'fr':
         outf.write('position: "{}"\n'.format(ainfo['position']))
     if 'position_en' in ainfo and lang == 'en':
         outf.write('position: "{}"\n'.format(ainfo['position_en']))
+    if 'position2' in ainfo and lang == 'fr':
+        outf.write('position2: "{}"\n'.format(ainfo['position2']))
+    if 'position2_en' in ainfo and lang == 'en':
+        outf.write('position2: "{}"\n'.format(ainfo['position2_en']))
     if 'alumni_position' in ainfo and lang == 'fr':
         outf.write('alumni_position: "{}"\n'.format(ainfo['alumni_position']))
     if 'alumni_position_en' in ainfo and lang == 'en':
@@ -66,14 +74,21 @@ def updatePage(page_path, ainfo, lang='fr'):
                 if header_def == 1:
                     # we're about to close the header, add missing/new optional fields
                     for ff in ['email', 'phone', 'room', 'alumni',
-                               'subteam', 'selected_dois']:
+                               'subteam', 'selected_dois', 'team2']:
                         if ff in ainfo and ff not in header_fields:
                             out_l.append('{}: "{}"\n'.format(ff, ainfo[ff]))
+                    if 'rank' in ainfo and int(ainfo['rank']) != 1 and 'weight' not in header_fields:
+                        out_l.append('weight: "{}"\n'.format(ainfo['rank']))
                     if 'position' not in header_fields:
                         if 'position' in ainfo and lang == 'fr':
                             out_l.append('position: "{}"\n'.format(ainfo['position']))
                         if 'position_en' in ainfo and lang == 'en':
                             out_l.append('position: "{}"\n'.format(ainfo['position_en']))
+                    if 'position2' not in header_fields:
+                        if 'position2' in ainfo and lang == 'fr':
+                            out_l.append('position2: "{}"\n'.format(ainfo['position2']))
+                        if 'position2_en' in ainfo and lang == 'en':
+                            out_l.append('position2: "{}"\n'.format(ainfo['position2_en']))
                     if 'alumni_position' not in header_fields:
                         if 'alumni_position' in ainfo and lang == 'fr':
                             out_l.append('alumni_position: "{}"\n'.format(ainfo['alumni_position']))
@@ -93,6 +108,8 @@ def updatePage(page_path, ainfo, lang='fr'):
                     value = ainfo['position_en']
                 if field == 'alumni_position' and lang == 'en' and 'alumni_position_en' in ainfo:
                     value = ainfo['alumni_position_en']
+                if field == 'weight' and 'rank' in ainfo:
+                    value = ainfo['rank']
                 header_fields.add(field)
                 out_l.append('{}: "{}"\n'.format(field, value))
             else:

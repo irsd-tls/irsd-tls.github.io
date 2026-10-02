@@ -12,6 +12,8 @@ weight: "1"
 position: "Responsable technique"
 alumni_position: ""
 selected_dois: ""
+team2: ""
+position2: ""
 ---
 
 

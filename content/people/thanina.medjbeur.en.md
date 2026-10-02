@@ -11,6 +11,8 @@ position: "PhD Student"
 subteam: ""
 selected_dois: ""
 alumni_position: ""
+team2: ""
+position2: ""
 ---
 
 

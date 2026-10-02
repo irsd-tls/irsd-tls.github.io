@@ -8,9 +8,12 @@ phone: ""
 room: ""
 position: "Researcher"
 alumni: ""
-subteam: ""
+subteam: "genotoxins"
 selected_dois: ""
 alumni_position: ""
+weight: "2"
+team2: ""
+position2: ""
 ---
 
 

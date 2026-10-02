@@ -11,6 +11,8 @@ alumni: ""
 position: "Responsable Scientifique & Technique"
 alumni_position: ""
 selected_dois: ""
+team2: ""
+position2: ""
 ---
 
 

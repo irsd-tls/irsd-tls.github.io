@@ -8,9 +8,12 @@ phone: "0562744556"
 room: "319"
 position: "IR"
 alumni: ""
-subteam: ""
+subteam: "resistant"
 selected_dois: ""
 alumni_position: ""
+weight: "21"
+team2: ""
+position2: ""
 ---
 
 

@@ -8,9 +8,12 @@ phone: ""
 room: ""
 position: "MC"
 alumni: ""
-subteam: ""
+subteam: "ev"
 selected_dois: ""
 alumni_position: ""
+weight: "12"
+team2: ""
+position2: ""
 ---
 
 

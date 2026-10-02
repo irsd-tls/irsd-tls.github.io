@@ -11,6 +11,8 @@ alumni: "eq4"
 subteam: ""
 selected_dois: ""
 alumni_position: "Chercheur"
+team2: ""
+position2: ""
 ---
 
 

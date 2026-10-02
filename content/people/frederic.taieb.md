@@ -8,9 +8,12 @@ phone: "0562744556"
 room: ""
 position: "Chercheur"
 alumni: ""
-subteam: ""
+subteam: "ev"
 selected_dois: ""
 alumni_position: ""
+weight: "11"
+team2: ""
+position2: ""
 ---
 
 

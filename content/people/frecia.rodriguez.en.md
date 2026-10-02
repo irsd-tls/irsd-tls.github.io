@@ -1,6 +1,6 @@
 ---
 title: "Frecia Rodriguez"
-layout: people
+layout: "people"
 team: "platform-organoid"
 image: "images/people/frecia.rodriguez.png"
 subteam: ""
@@ -10,6 +10,9 @@ room: ""
 alumni: ""
 position: "Staff"
 alumni_position: ""
+selected_dois: ""
+team2: ""
+position2: ""
 ---
 
 

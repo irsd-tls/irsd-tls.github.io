@@ -26,6 +26,18 @@ Keywords: Commensalisme et pathogénie bactériennes, Microbiote intestinal​
 
 {{< people-list >}}
 
+### Génotoxines bactériennes
+
+{{< people-list-subteam genotoxins >}}
+
+### Vésicules extracellulaires bactériennes
+
+{{< people-list-subteam ev >}}
+
+### Écologie des bactéries pathogènes et antibiorésistantes
+
+{{< people-list-subteam resistant >}}
+
 ## Publications
 
 {{< team-publications >}}

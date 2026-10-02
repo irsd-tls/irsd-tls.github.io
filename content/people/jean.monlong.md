@@ -14,6 +14,8 @@ alumni: ""
 subteam: ""
 selected_dois: "10.1038/s41586-023-05896-x;10.1126/science.abg8871;10.1186/s13059-020-1941-7"
 alumni_position: ""
+team2: ""
+position2: ""
 ---
 
 ## Mini-CV

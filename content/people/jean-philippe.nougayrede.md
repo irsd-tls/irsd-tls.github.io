@@ -6,11 +6,14 @@ image: "images/people/jean-philippe.nougayrede.png"
 email: "jean-philippe.nougayrede@inserm.fr"
 phone: ""
 room: ""
-position: "Chercheur"
+position: "DR"
 alumni: ""
-subteam: ""
+subteam: "genotoxins"
 selected_dois: ""
 alumni_position: ""
+weight: "2"
+team2: ""
+position2: ""
 ---
 
 

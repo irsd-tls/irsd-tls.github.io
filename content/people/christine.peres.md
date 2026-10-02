@@ -6,11 +6,14 @@ image: "images/people/christine.peres.png"
 subteam: ""
 email: "christine.peres@inserm.fr"
 phone: "0561322871"
-room: ""
+room: "salle de réunion"
 alumni: ""
-position: "Secretaire"
+position: "Secrétaire"
 alumni_position: ""
 selected_dois: ""
+weight: "30"
+team2: ""
+position2: ""
 ---
 
 

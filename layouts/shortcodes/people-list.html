@@ -10,6 +10,8 @@
   
   {{- if eq $eqname $person.Params.team }}
 
+  {{- if not $person.Params.subteam }}
+  
   <div class="people-item">
     <a href="{{ $person.RelPermalink }}">
       {{- if .Params.image }}
@@ -29,7 +31,32 @@
   </div>
   
   {{- end -}}
+
+  {{- end -}}
+
+  <!-- same but for the second role -->
+  {{- if eq $eqname $person.Params.team2 }}
   
+  <div class="people-item">
+    <a href="{{ $person.RelPermalink }}">
+      {{- if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" />
+      {{ else }}
+      <img src="/images/people/generic.png" alt="{{ .Params.image_alt }}" />
+      {{ end }}
+      <p>
+        <strong>
+          {{ $person.Title }}
+        </strong>
+      </br>
+      {{ $person.Params.position2 }}
+      </p>
+    </a>
+    <!-- Add more fields as needed -->
+  </div>
+  
+  {{- end -}}
+
   {{- end -}}
 
 </div>

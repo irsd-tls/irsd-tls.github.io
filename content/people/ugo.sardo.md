@@ -11,6 +11,8 @@ alumni: "eq5"
 subteam: ""
 selected_dois: ""
 alumni_position: "Doctorant"
+team2: ""
+position2: ""
 ---
 
 

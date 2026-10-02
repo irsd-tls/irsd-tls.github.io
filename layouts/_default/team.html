@@ -42,13 +42,13 @@
         {{- end -}}
           
 
-          {{- if .Params.image }}
-          <section class="col-{{ $width_img }} col-12-narrower">
-            <div class="box highlight">
-              <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
-            </div>
-          </section>
-          {{ end }}
+        {{- if .Params.image }}
+        <section class="col-{{ $width_img }} col-12-narrower">
+          <div class="box highlight">
+            <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
+          </div>
+        </section>
+        {{ end }}
 
       <!-- second leader if any -->
       {{ if eq 2 $nleaders }}

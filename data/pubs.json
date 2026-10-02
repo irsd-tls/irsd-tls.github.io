@@ -1435,7 +1435,8 @@
       }
     ],
     "sel_team": [
-      "eq1"
+      "eq1",
+      "platform-organoid"
     ]
   },
   {
@@ -1804,7 +1805,58 @@
       }
     ],
     "sel_team": [
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1111/bph.70100",
+    "title": "Bispecific nanobody\u00ae as a new pharmacological drug for the selective inhibition of Trypsin\u20103",
+    "year": 2025,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "M\u00e9lissa David"
+      },
+      {
+        "name": "Ana\u00efs Faihy"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Astrid Canivet",
+        "id": "astrid.canivet",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "L\u00e6titia Ligat"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Aur\u00e9lien Olichon"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
     ]
   },
   {
@@ -2010,6 +2062,154 @@
     ],
     "sel_team": [
       "eq4"
+    ]
+  },
+  {
+    "doi": "10.1111/bph.16341",
+    "title": "Chymotrypsin activity signals to intestinal epithelium by protease\u2010activated receptor\u2010dependent mechanisms",
+    "year": 2024,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "Simon Guignard"
+      },
+      {
+        "name": "Mahmoud Saifeddine"
+      },
+      {
+        "name": "Koichiro Mihara"
+      },
+      {
+        "name": "Majid Motahhary"
+      },
+      {
+        "name": "Magali Savignac"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Sokchea Khou"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Caroline Camar\u00e9"
+      },
+      {
+        "name": "Mouna Ambli"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Morley Donald Hollenberg"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1111/bph.17408",
+    "title": "TRPV4 stimulates colonic afferents through mucosal release of ATP and glutamate",
+    "year": 2024,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "Michelle Y. Meng"
+      },
+      {
+        "name": "Luke W Paine"
+      },
+      {
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "Ivana Bello"
+      },
+      {
+        "name": "Sophie Oldroyd"
+      },
+      {
+        "name": "Farideh A. Javid"
+      },
+      {
+        "name": "Matthew Thomas Harper"
+      },
+      {
+        "name": "James R.F. Hockley"
+      },
+      {
+        "name": "Ewan St. John Smith"
+      },
+      {
+        "name": "R\u00f3is\u0131\u0301n M. Owens"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Fraser Welsh"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "David Colin Bulmer"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
     ]
   },
   {
@@ -3276,6 +3476,75 @@
     ]
   },
   {
+    "doi": "10.1016/j.bmc.2023.117366",
+    "title": "Daphnanes diterpenes from the latex of Hura crepitans L. and their PKC\u03b6-dependent anti-proliferative activity on colorectal cancer cells",
+    "year": 2023,
+    "type": "article",
+    "journal": "Bioorganic & Medicinal Chemistry",
+    "authors": [
+      {
+        "name": "Elise Crossay"
+      },
+      {
+        "name": "Val\u00e9rie Jullian"
+      },
+      {
+        "name": "Manon Trinel"
+      },
+      {
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "Dimitri Hamel"
+      },
+      {
+        "name": "Emie Groppi"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Jean\u2010Luc Stigliani"
+      },
+      {
+        "name": "Kember Mej\u00eda"
+      },
+      {
+        "name": "Billy Joel Cabanillas"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Chaker El Kalamouni"
+      },
+      {
+        "name": "Patrick Mavingui"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Nicol\u00e1s Fabre"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
+    ]
+  },
+  {
     "doi": "10.1126/sciadv.abg9055",
     "title": "Nuclear HMGB1 protects from nonalcoholic fatty liver disease through negative regulation of liver X receptor",
     "year": 2022,
@@ -3640,6 +3909,58 @@
     ],
     "sel_team": [
       "eq2"
+    ]
+  },
+  {
+    "doi": "10.1152/ajpgi.00061.2022",
+    "title": "Prenatal stress induces changes in PAR2- and M3-dependent regulation of colon primitive cells",
+    "year": 2022,
+    "type": "article",
+    "journal": "American Journal of Physiology-Gastrointestinal and Liver Physiology",
+    "authors": [
+      {
+        "name": "Mathieu Berger"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "Alexia Dumas"
+      },
+      {
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "Ga\u00eblle Payros"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
     ]
   },
   {
@@ -4384,7 +4705,8 @@
       }
     ],
     "sel_team": [
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
@@ -4452,8 +4774,8 @@
       }
     ],
     "sel_team": [
-      "eq1",
-      "eq6"
+      "eq6",
+      "eq1"
     ]
   },
   {
@@ -5212,7 +5534,8 @@
       }
     ],
     "sel_team": [
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
@@ -5990,7 +6313,73 @@
       }
     ],
     "sel_team": [
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1186/s13293-019-0262-6",
+    "title": "Sexual dimorphism in PAR2-dependent regulation of primitive colonic cells",
+    "year": 2019,
+    "type": "article",
+    "journal": "Biology of Sex Differences",
+    "authors": [
+      {
+        "name": "Julie Noguerol"
+      },
+      {
+        "name": "Pierre-Jean Roustan"
+      },
+      {
+        "name": "Mikael N\u2019Taye"
+      },
+      {
+        "name": "L\u00e9o Delcombel"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Alexandre Denadai\u2010Souza"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-organoid"
     ]
   },
   {

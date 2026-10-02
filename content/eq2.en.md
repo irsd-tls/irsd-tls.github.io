@@ -24,9 +24,21 @@ Several research axes are being developed:
 1. Pathogenic bacteria and antibiotic resistance
 1. Dysbiosis involving Escherichia coli and metabolic diseases
 
-## Membres
+## Members
 
 {{< people-list >}}
+
+### Bacterial genotoxins
+
+{{< people-list-subteam genotoxins >}}
+
+### Bacterial extracellular vesicles
+
+{{< people-list-subteam ev >}}
+
+### Ecology of pathogenic and antimicrobial resistant bacteria
+
+{{< people-list-subteam resistant >}}
 
 ## Publications
 
