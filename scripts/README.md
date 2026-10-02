@@ -30,6 +30,8 @@ pip3 install pyalex
 source venv/bin/activate
 
 python3 get_openalex_info.py
+
+cp pubs.json ../data/
 ```
 
 # Création de pages à partir de la table

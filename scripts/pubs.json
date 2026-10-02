@@ -70,7 +70,9 @@
         "name": "Laure Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Julio Ortiz Canseco"
@@ -558,7 +560,9 @@
         "name": "Laure Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Maximiliano Gabriel Gutierrez"
@@ -1389,7 +1393,9 @@
         "name": "Elo\u00efse Bruno"
       },
       {
-        "name": "David Sagnat"
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
       },
       {
         "name": "Corinne Rolland"
@@ -1561,7 +1567,9 @@
         "name": "M\u00e9lanie Auvray"
       },
       {
-        "name": "Nolwenn Laborde"
+        "name": "Nolwenn Laborde",
+        "id": "nolwenn.laborde",
+        "team": "eq6"
       },
       {
         "name": "Marie Mittaine"
@@ -1637,7 +1645,9 @@
         "name": "Sandra L. Wolin"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       }
     ],
     "sel_team": [
@@ -1772,7 +1782,9 @@
         "name": "Shuai Wang"
       },
       {
-        "name": "Astrid Canivet"
+        "name": "Astrid Canivet",
+        "id": "astrid.canivet",
+        "team": "platform-organoid"
       },
       {
         "name": "Claude Knauf"
@@ -1881,7 +1893,9 @@
     "journal": "The Journal of Pathology",
     "authors": [
       {
-        "name": "Nolwenn Laborde"
+        "name": "Nolwenn Laborde",
+        "id": "nolwenn.laborde",
+        "team": "eq6"
       },
       {
         "name": "Alexandre Barusseaud"
@@ -2414,7 +2428,9 @@
         "name": "H\u00e9l\u00e8ne Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       }
     ],
     "sel_team": [
@@ -4154,7 +4170,9 @@
         "name": "Carl Nathan"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       }
     ],
     "sel_team": [
@@ -4312,7 +4330,9 @@
         "name": "Ana-Carolina Florence"
       },
       {
-        "name": "David Sagnat"
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
       },
       {
         "name": "Chrystelle Bonnart",
@@ -4432,8 +4452,8 @@
       }
     ],
     "sel_team": [
-      "eq1",
-      "eq6"
+      "eq6",
+      "eq1"
     ]
   },
   {
@@ -4923,7 +4943,9 @@
         "name": "Julia Roberts"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Amy Yang"
@@ -5037,7 +5059,9 @@
         "name": "Sarah M. Schrader"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Carl Nathan"
@@ -5119,7 +5143,9 @@
         "team": "platform-digestive"
       },
       {
-        "name": "David Sagnat"
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
       },
       {
         "name": "Laura Guiraud",
@@ -5472,7 +5498,9 @@
         "name": "Jinyuan Yan"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Simone Becattini"
@@ -5535,7 +5563,9 @@
         "name": "Isabelle Blanc"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Sophie Lagrange"
@@ -5669,7 +5699,9 @@
         "name": "H\u00e9l\u00e8ne Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Dirk Schnappinger"
@@ -5876,7 +5908,9 @@
         "name": "Alexandre Denadai\u2010Souza"
       },
       {
-        "name": "David Sagnat"
+        "name": "David Sagnat",
+        "id": "david.sagnat",
+        "team": "platform-organoid"
       },
       {
         "name": "Laura Guiraud",
@@ -6016,7 +6050,9 @@
         "name": "H\u00e9l\u00e8ne Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       }
     ],
     "sel_team": [
@@ -6068,7 +6104,9 @@
         "name": "Tania J. Lupoli"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Kristin E. Burns-Huang"
@@ -6540,7 +6578,9 @@
         "name": "Laure Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Jonathan Livny"
@@ -6823,7 +6863,9 @@
         "name": "H\u00e9l\u00e8ne Botella"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Myung Hee Lee"
@@ -6871,7 +6913,9 @@
         "name": "Carl Nathan"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       }
     ],
     "sel_team": [
@@ -6991,7 +7035,9 @@
     "journal": "Cell Host & Microbe",
     "authors": [
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Gang Lin"
@@ -7054,7 +7100,9 @@
         "name": "Omar H. Vandal"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Ruojun Wang"
@@ -7212,7 +7260,9 @@
         "name": "Thulasi Warrier"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Christopher Blackburn"
@@ -7329,7 +7379,9 @@
         "name": "Fran\u00e7oise Laval"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Rebecca M. Crew"
@@ -7377,7 +7429,9 @@
         "name": "Gerald J Larrouy-Maumus"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Sathish Mundayoor"
@@ -7453,7 +7507,9 @@
         "name": "Eliette Darthuy"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Chongzhen Wang"
@@ -7551,7 +7607,9 @@
     "journal": "Journal of Biological Chemistry",
     "authors": [
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "F. Bardou"
@@ -7593,7 +7651,9 @@
         "name": "Pascale Peyron"
       },
       {
-        "name": "Julien Vaubourgeix"
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
       },
       {
         "name": "Yannick Poquet"
