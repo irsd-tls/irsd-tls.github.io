@@ -45,3 +45,7 @@ Les expérimentations sont menées dans le respect de l’éthique animale et de
 ## Personnel
 
 {{< people-list >}}
+
+## Publications
+
+{{< team-publications >}}

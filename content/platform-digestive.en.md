@@ -50,3 +50,7 @@ It facilitates the referencing and sharing of animal models already used by vari
 ## Staff
 
 {{< people-list >}}
+
+## Publications
+
+{{< team-publications >}}

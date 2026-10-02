@@ -639,6 +639,91 @@
     ]
   },
   {
+    "doi": "10.1080/19490976.2026.2687903",
+    "title": "High thrombin activity associated with crohn\u2019s disease induces microbiota pathogenicity contributing to mucosal inflammation",
+    "year": 2026,
+    "type": "article",
+    "journal": "Gut Microbes",
+    "authors": [
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "M\u00e9lissa David"
+      },
+      {
+        "name": "Alexia Dumas"
+      },
+      {
+        "name": "Elodie Meunier"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "Simone Palese"
+      },
+      {
+        "name": "Carmine Giorgio"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Cyrielle Gilletta"
+      },
+      {
+        "name": "Adrian Culetto"
+      },
+      {
+        "name": "Cindy Canivet"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Caroline Camar\u00e9"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
+    ]
+  },
+  {
     "doi": "10.1016/j.ajhg.2025.01.002",
     "title": "Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection",
     "year": 2025,
@@ -1657,6 +1742,57 @@
     ],
     "sel_team": [
       "eq2"
+    ]
+  },
+  {
+    "doi": "10.1111/nmo.70157",
+    "title": "Modeling Postoperative Pathologic Ileus in Mice: A Simplified and Translational Approach",
+    "year": 2025,
+    "type": "article",
+    "journal": "Neurogastroenterology & Motility",
+    "authors": [
+      {
+        "name": "Romain Gauthier"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Thibault Planchamp"
+      },
+      {
+        "name": "T\u00e9o Berthon"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "Shuai Wang"
+      },
+      {
+        "name": "Astrid Canivet"
+      },
+      {
+        "name": "Claude Knauf"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
     ]
   },
   {
@@ -4153,6 +4289,85 @@
     ]
   },
   {
+    "doi": "10.1038/s41385-021-00375-w",
+    "title": "Epithelial production of elastase is increased in inflammatory bowel disease and causes mucosal inflammation",
+    "year": 2021,
+    "type": "article",
+    "journal": "Mucosal Immunology",
+    "authors": [
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Ana-Carolina Florence"
+      },
+      {
+        "name": "David Sagnat"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "Muriel Quaranta-Nicaise"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Elena Francisca Verdu"
+      },
+      {
+        "name": "Derek Mark McKay"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
+    ]
+  },
+  {
     "doi": "10.3389/fcell.2020.00363",
     "title": "Characterization of Human Colon Organoids From Inflammatory Bowel Disease Patients",
     "year": 2020,
@@ -4875,6 +5090,106 @@
     "sel_team": []
   },
   {
+    "doi": "10.1093/ecco-jcc/jjaa229",
+    "title": "Increased Mucosal Thrombin is Associated with Crohn\u2019s Disease and Causes Inflammatory Damage through Protease-activated Receptors Activation",
+    "year": 2020,
+    "type": "article",
+    "journal": "Journal of Crohn's and Colitis",
+    "authors": [
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Simone Palese"
+      },
+      {
+        "name": "Carmine Giorgio"
+      },
+      {
+        "name": "Kevin Chapman"
+      },
+      {
+        "name": "Alexandre Denadai\u2010Souza"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "David Sagnat"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Carine S\u00e9guy",
+        "id": "carine.seguy",
+        "team": "eq2"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Cyrielle Gilletta"
+      },
+      {
+        "name": "Andr\u00e9 G. Buret"
+      },
+      {
+        "name": "John Lawrence Wallace"
+      },
+      {
+        "name": "Morley Donald Hollenberg"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Elisabetta Barocelli"
+      },
+      {
+        "name": "Sylvie Le Grand"
+      },
+      {
+        "name": "Bruno Le Grand"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
+    ]
+  },
+  {
     "doi": "10.1126/scitranslmed.aav5467",
     "title": "A variant erythroferrone disrupts iron homeostasis in SF3B1 -mutated myelodysplastic syndrome",
     "year": 2019,
@@ -5543,6 +5858,105 @@
     ],
     "sel_team": [
       "eq1"
+    ]
+  },
+  {
+    "doi": "10.1038/s41467-019-11140-w",
+    "title": "Active thrombin produced by the intestinal epithelium controls mucosal biofilms",
+    "year": 2019,
+    "type": "article",
+    "journal": "Nature Communications",
+    "authors": [
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Alexandre Denadai\u2010Souza"
+      },
+      {
+        "name": "David Sagnat"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "Ariane Lapeyre"
+      },
+      {
+        "name": "Carine S\u00e9guy",
+        "id": "carine.seguy",
+        "team": "eq2"
+      },
+      {
+        "name": "Noa Mathurine-Thomas"
+      },
+      {
+        "name": "Heather Jean Galipeau"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Andr\u00e9 G. Buret"
+      },
+      {
+        "name": "John Lawrence Wallace"
+      },
+      {
+        "name": "Antoine Dufour"
+      },
+      {
+        "name": "Elena Francisca Verdu"
+      },
+      {
+        "name": "Morley Donald Hollenberg"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Matteo S\u00e9rino"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
     ]
   },
   {
@@ -6669,6 +7083,70 @@
     ],
     "sel_team": [
       "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1136/gutjnl-2015-310230",
+    "title": "Apelin targets gut contraction to control glucose metabolism via the brain",
+    "year": 2015,
+    "type": "article",
+    "journal": "Gut",
+    "authors": [
+      {
+        "name": "Audren Fournel"
+      },
+      {
+        "name": "Anne Drougard"
+      },
+      {
+        "name": "Thibaut Duparc"
+      },
+      {
+        "name": "Alysson Marlin"
+      },
+      {
+        "name": "Stuart M. Brierley"
+      },
+      {
+        "name": "Joel Castro"
+      },
+      {
+        "name": "Sophie Le Gonidec"
+      },
+      {
+        "name": "Bernard Masri"
+      },
+      {
+        "name": "Andr\u00e9 Colom"
+      },
+      {
+        "name": "Alexandre Lucas"
+      },
+      {
+        "name": "Perrine Rousset",
+        "id": "perrine.rousset",
+        "team": "platform-digestive"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Philippe Valet"
+      },
+      {
+        "name": "Patrice D. Cani"
+      },
+      {
+        "name": "Claude Knauf"
+      }
+    ],
+    "sel_team": [
+      "platform-digestive"
     ]
   },
   {
