@@ -104,6 +104,10 @@ Pour les anciens membres: `{{< former-people-list >}}` défini dans [layouts/sho
 - Pour une équipe: [layouts/shortcodes/team-publications.html](layouts/shortcodes/team-publications.html)
 - Pour un membre: [layouts/shortcodes/people-publications.html](layouts/shortcodes/people-publications.html)
 
+## Scripts automatiques
+
+Voir [scripts/README.md](scripts/README.md).
+
 # TODO list
 
 1. Fix le bug avec les listes de gens https://github.com/metafizzy/isotope/issues/1575
