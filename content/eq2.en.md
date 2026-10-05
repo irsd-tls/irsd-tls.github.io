@@ -11,18 +11,13 @@ image: images/eq2/banner_eq2.jpg
 image_alt: "Equipe 2 IRSD"
 ---
 
-Keywords: Bacterial Commensalism and Pathogenesis, Intestinal microbiota
+## Research Program
 
-The "**Pathogenesis and Commensalism of Enterobacteria**" team, led by Eric Oswald, employs a multidisciplinary approach (microbiology, molecular and cellular biology, immunology, metagenomics, integrative physiology, and animal models) to investigate the boundary between bacterial commensalism and pathogenesis and their role in modulating the host cell cycle, genomic integrity, physiology, and metabolism. To achieve these goals, new scientific and technological insights have been gained in various aspects of bacterial infection, intestinal colonization, and ecology.
+The "**Pathogenesis and Commensalism of Enterobacteriaceae**" team, led by Eric Oswald, studies the boundary between bacterial commensalism and pathogenesis. It combines microbiology, molecular and cellular biology, and population genomics, along with animal infection models, to understand how certain Gram-negative bacteria modulate host cell physiology or alter genome integrity during acute as well as chronic infections, leading to the development of highly diverse pathologies ranging from sepsis to cancer. This work focuses on several *Escherichia coli* pathovars—enteropathogenic, enterohemorrhagic, and extraintestinal (EPEC, EHEC, ExPEC)—as well as commensal and probiotic *E. coli*, and is now expanding to *Klebsiella pneumoniae* and *Pseudomonas aeruginosa*. A common thread connects these subjects of study: the factors that ensure successful intestinal colonization are often the same ones that render the bacteria pathogenic in a different ecological niche. The team's research is structured around three main axes:
 
-The team focuses on multiple pathovars of Escherichia coli, including enteropathogenic, hemorrhagic, and extraintestinal pathogenic *E. coli* (EPEC, EHEC, and ExPEC), as well as commensal and probiotic *E. coli* and the intestinal microbiota. Their work also explores dysbiosis and its impact on infection, metabolic diseases, and carcinogenesis.
-
-Several research axes are being developed:
-
-1. Toxins and cancers
-1. From commensalism to pathogenicity
-1. Pathogenic bacteria and antibiotic resistance
-1. Dysbiosis involving Escherichia coli and metabolic diseases
+1. Ecology of pathogenic and antibiotic-resistant bacteria
+2. Bacterial genotoxins
+3. Bacterial extracellular vesicles
 
 ## Members
 
@@ -40,10 +35,10 @@ Several research axes are being developed:
 
 {{< people-list-subteam resistant >}}
 
-### Administration
+### Management & Logistics
 
 {{< people-list-subteam admin >}}
 
-## Publications
+## Selected publications
 
 {{< team-publications >}}
