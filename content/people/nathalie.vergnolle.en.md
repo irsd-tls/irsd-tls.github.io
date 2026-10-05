@@ -4,7 +4,7 @@ layout: "people"
 team: "eq1"
 image: "images/people/nathalie.vergnolle.webp"
 email: "nathalie.vergnolle@inserm.fr"
-weight: 1
+weight: "1"
 phone: ""
 room: ""
 position: "Researcher"
@@ -13,7 +13,7 @@ subteam: ""
 selected_dois: ""
 alumni_position: ""
 team2: "platform-organoid"
-position2: "Scientific Manager"
+position2: "Responsable Scientifique"
 ---
 
 

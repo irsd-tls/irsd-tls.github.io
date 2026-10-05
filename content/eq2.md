@@ -38,6 +38,10 @@ Keywords: Commensalisme et pathogénie bactériennes, Microbiote intestinal​
 
 {{< people-list-subteam resistant >}}
 
+### Administration
+
+{{< people-list-subteam admin >}}
+
 ## Publications
 
 {{< team-publications >}}
