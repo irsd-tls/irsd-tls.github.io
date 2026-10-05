@@ -74,6 +74,6 @@ Des recherches complémentaires pourraient également inclure des approches int�
 
 N’hésitez pas à contacter **Sarah et Jean** si vous êtes intéressé(e) par une collaboration au sein de notre équipe !
 
-## Publications
+## Publications sélectionnées
 
 {{< team-publications >}}

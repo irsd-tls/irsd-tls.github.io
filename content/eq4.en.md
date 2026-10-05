@@ -62,6 +62,6 @@ Members of the team contributed to several public softwares, some of them highli
 
 We are actively looking to expand and welcome new researchers in genomics and bioinformatics to join our team. Some projects could benefit from new expertise: advanced statistical skills to help with variant imputation, single-cell transcriptomics to enrich our cell-specific characterization of gene regulation, or machine learning to assist in the prediction of functional elements in the genome or functional non-coding variants. Complementary research could also include approaches that would benefit from integrating more variants (e.g. structural variants) or variants with better functional annotation (e.g. in cell-specific regulatory regions), for example developing finer evolutionary metrics or polygenic risk scores. Don’t hesitate to reach out to Sarah and Jean if you are interested in joining the team!
 
-## Publications
+## Selected publications
 
 {{< team-publications >}}
