@@ -4,6 +4,7 @@ import pyalex
 import glob
 # https://github.com/J535D165/pyalex
 # from utils import Article
+import pandas
 
 query_open_alex = False
 
@@ -23,20 +24,15 @@ with open('cache.openalex.json', 'rt') as cache_inf:
 
 # read the list of IRSD authors
 auth_info = {}
-with open('people.csv', 'rt') as inf:
-    heads = None
-    for line in inf:
-        line = line.rstrip().split(',')
-        if heads is None:
-            heads = line
-            continue
+df = pandas.read_csv('people.csv').fillna('')
+for idx, row in df.iterrows():
+    row = row.to_dict()
+    oa_id = row['oa_id']
+    if oa_id != '':
         ainfo = {}
-        ainfo['team'] = line[heads.index('team')]
-        ainfo['id'] = line[heads.index('id')]
-        if line[heads.index('oa_id')] != '':
-            oa_id = line[heads.index('oa_id')]
-            auth_info[oa_id.lower()] = ainfo
-
+        ainfo['team'] = row['team']
+        ainfo['id'] = row['id']
+        auth_info[oa_id.lower()] = ainfo
 print('{} authors with a OpenAlex ID.'.format(len(auth_info)))
 
 if query_open_alex:

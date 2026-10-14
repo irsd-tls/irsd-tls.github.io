@@ -22,6 +22,7 @@ https://github.com/J535D165/pyalex
 python3 -m venv venv
 source venv/bin/activate
 pip3 install pyalex
+pip3 install pandas
 ```
 
 ## Get publication info for all articles from the IRSD authors

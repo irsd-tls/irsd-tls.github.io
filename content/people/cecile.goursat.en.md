@@ -1,18 +1,19 @@
 ---
 title: "Cécile Goursat"
-layout: people
+layout: "people"
 team: "eq2"
 image: "images/people/cecile.goursat.png"
 subteam: "genotoxins"
-team2: "genotoxins"
+team2: ""
 email: "cecile.goursat@inserm.fr"
-phone: ""
-room: ""
+phone: "0561322871"
+room: "salle de réunion"
 weight: "8"
 alumni: ""
 position: "IE"
 position2: ""
 alumni_position: ""
+selected_dois: ""
 ---
 
 

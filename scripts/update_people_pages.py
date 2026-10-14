@@ -1,19 +1,17 @@
 import os
 import shutil
+import pandas
+
 
 # read the list of IRSD authors
 auth_info = {}
-with open('people.csv', 'rt') as inf:
-    heads = None
-    for line in inf:
-        line = line.rstrip().split(',')
-        if heads is None:
-            heads = line
-            continue
-        ainfo = {}
-        for ii, value in enumerate(line):
-            ainfo[heads[ii]] = value
-        auth_info[ainfo['id']] = ainfo
+df = pandas.read_csv('people.csv').fillna('')
+for idx, row in df.iterrows():
+    row = row.to_dict()
+    ainfo = {}
+    for name in row:
+        ainfo[name] = row[name]
+    auth_info[ainfo['id']] = ainfo
 
 
 def createPage(page_path, ainfo, lang='fr'):

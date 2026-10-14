@@ -699,7 +699,9 @@
         "name": "Cindy Canivet"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "Caroline Camar\u00e9"
@@ -1435,7 +1437,6 @@
       }
     ],
     "sel_team": [
-      "eq1",
       "platform-organoid"
     ]
   },
@@ -1796,7 +1797,9 @@
         "team": "eq1"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "C\u00e9line Deraison",
@@ -1805,8 +1808,9 @@
       }
     ],
     "sel_team": [
-      "platform-digestive",
-      "platform-organoid"
+      "platform-organoid",
+      "eq1",
+      "platform-digestive"
     ]
   },
   {
@@ -1857,6 +1861,50 @@
     ],
     "sel_team": [
       "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1038/s41575-025-01129-w",
+    "title": "Proteases in intestinal health and disease",
+    "year": 2025,
+    "type": "review",
+    "journal": "Nature Reviews Gastroenterology & Hepatology",
+    "authors": [
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
+    "doi": "10.1146/annurev-pharmtox-051921-084536",
+    "title": "Pharmacology of Intestinal Inflammation and Repair",
+    "year": 2025,
+    "type": "review",
+    "journal": "Annual Review of Pharmacology and Toxicology",
+    "authors": [
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
     ]
   },
   {
@@ -2117,7 +2165,9 @@
         "name": "Louis Buscail"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "Laurent Alric"
@@ -2143,11 +2193,12 @@
       },
       {
         "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
+        "id": "chrystelle.bonnart",
         "team": "eq1"
       }
     ],
     "sel_team": [
+      "eq1",
       "platform-organoid"
     ]
   },
@@ -2194,7 +2245,9 @@
         "name": "Laurent Alric"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "Fraser Welsh"
@@ -2210,6 +2263,62 @@
     ],
     "sel_team": [
       "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1038/s41598-024-65485-4",
+    "title": "Intestinal organoids to model Salmonella infection and its impact on progenitors",
+    "year": 2024,
+    "type": "article",
+    "journal": "Scientific Reports",
+    "authors": [
+      {
+        "name": "Yan Jin"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Tiffany P\u00e9zier"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Coralie Claverie"
+      },
+      {
+        "name": "Julien Burlaud\u2010Gaillard"
+      },
+      {
+        "name": "Michel Olivier"
+      },
+      {
+        "name": "Philippe Velge"
+      },
+      {
+        "name": "Sonia Lacroix\u2010Lamand\u00e9"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Agn\u00e8s Wiedemann",
+        "id": "agnes.wiedemann",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
     ]
   },
   {
@@ -2610,9 +2719,7 @@
         "name": "Isaac M. Chiu"
       }
     ],
-    "sel_team": [
-      "eq1"
-    ]
+    "sel_team": []
   },
   {
     "doi": "10.1016/j.mib.2022.102259",
@@ -3518,7 +3625,9 @@
         "name": "Laurent Alric"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "Chaker El Kalamouni"
@@ -3542,6 +3651,80 @@
     ],
     "sel_team": [
       "platform-organoid"
+    ]
+  },
+  {
+    "doi": "10.1111/bcp.15878",
+    "title": "Postoperative ileus after digestive surgery: Network meta\u2010analysis of pharmacological intervention",
+    "year": 2023,
+    "type": "article",
+    "journal": "British Journal of Clinical Pharmacology",
+    "authors": [
+      {
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
+      },
+      {
+        "name": "Thibault Planchamp"
+      },
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Manon Bouchet"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Nicolas Carr\u00e8re"
+      },
+      {
+        "name": "Fabrice Muscari"
+      },
+      {
+        "name": "Olivier Abbo"
+      },
+      {
+        "name": "Charlotte Maulat"
+      },
+      {
+        "name": "Ariane Weyl"
+      },
+      {
+        "name": "Jean Pierre Duffas"
+      },
+      {
+        "name": "Antoine Philis"
+      },
+      {
+        "name": "Laurent Ghouti"
+      },
+      {
+        "name": "Cindy Canivet"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Jason Shourick"
+      }
+    ],
+    "sel_team": [
+      "eq1"
     ]
   },
   {
@@ -3964,6 +4147,61 @@
     ]
   },
   {
+    "doi": "10.1111/bph.15800",
+    "title": "Postoperative ileus: A pharmacological perspective",
+    "year": 2022,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
+    "doi": "10.1111/bph.15985",
+    "title": "Elafin and its precursor trappin\u20102: What is their therapeutic potential for intestinal diseases?",
+    "year": 2022,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnart",
+        "team": "eq1"
+      },
+      {
+        "name": "Philippe Langella"
+      },
+      {
+        "name": "Karine Roget"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
     "doi": "10.1038/s41575-020-00397-y",
     "title": "Gastrointestinal biofilms in health and disease",
     "year": 2021,
@@ -3992,9 +4230,7 @@
         "team": "eq1"
       }
     ],
-    "sel_team": [
-      "eq1"
-    ]
+    "sel_team": []
   },
   {
     "doi": "10.1126/science.abg8871",
@@ -4207,7 +4443,7 @@
       },
       {
         "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
+        "id": "chrystelle.bonnart",
         "team": "eq1"
       },
       {
@@ -4564,32 +4800,6 @@
     ]
   },
   {
-    "doi": "10.1089/ars.2021.0004",
-    "title": "Effects of Hydrogen Sulfide on the Microbiome: From Toxicity to Therapy",
-    "year": 2021,
-    "type": "article",
-    "journal": "Antioxidants & Redox Signaling",
-    "authors": [
-      {
-        "name": "Andr\u00e9 G. Buret"
-      },
-      {
-        "name": "Thibault Allain"
-      },
-      {
-        "name": "Jean\u2010Paul Motta",
-        "id": "jean-paul.motta",
-        "team": "eq1"
-      },
-      {
-        "name": "John Lawrence Wallace"
-      }
-    ],
-    "sel_team": [
-      "eq1"
-    ]
-  },
-  {
     "doi": "10.1099/mgen.0.000577",
     "title": "Insights into evolution and coexistence of the colibactin- and yersiniabactin secondary metabolite determinants in enterobacterial populations",
     "year": 2021,
@@ -4657,7 +4867,7 @@
       },
       {
         "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
+        "id": "chrystelle.bonnart",
         "team": "eq1"
       },
       {
@@ -4688,7 +4898,9 @@
         "name": "Derek Mark McKay"
       },
       {
-        "name": "\u00c9tienne Buscail"
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
       },
       {
         "name": "Laurent Alric"
@@ -4705,8 +4917,81 @@
       }
     ],
     "sel_team": [
-      "platform-digestive",
-      "platform-organoid"
+      "platform-organoid",
+      "eq1",
+      "platform-digestive"
+    ]
+  },
+  {
+    "doi": "10.3389/fcell.2020.622048",
+    "title": "Next-Generation Cancer Biomarkers: Extracellular Vesicle DNA as a Circulating Surrogate of Tumor DNA",
+    "year": 2021,
+    "type": "article",
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "authors": [
+      {
+        "name": "Samuel Amintas"
+      },
+      {
+        "name": "V. Vendrely"
+      },
+      {
+        "name": "Charles Louis Dupin"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Christophe Laurent"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Jean\u2010Philippe Merlio"
+      },
+      {
+        "name": "Aur\u00e9lie Bedel"
+      },
+      {
+        "name": "Fran\u00e7ois Moreau\u2010Gaudry"
+      },
+      {
+        "name": "Julian Boutin"
+      },
+      {
+        "name": "Sandrine Dabernat"
+      },
+      {
+        "name": "\u00c9tienne Buscail",
+        "id": "etienne.buscail",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
+    "doi": "10.3390/cells10020225",
+    "title": "GSK3\u03b2, a Master Kinase in the Regulation of Adult Stem Cell Behavior",
+    "year": 2021,
+    "type": "article",
+    "journal": "Cells",
+    "authors": [
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
     ]
   },
   {
@@ -4774,8 +5059,8 @@
       }
     ],
     "sel_team": [
-      "eq6",
-      "eq1"
+      "eq1",
+      "eq6"
     ]
   },
   {
@@ -5534,8 +5819,9 @@
       }
     ],
     "sel_team": [
-      "platform-digestive",
-      "platform-organoid"
+      "platform-organoid",
+      "eq1",
+      "platform-digestive"
     ]
   },
   {
@@ -5803,9 +6089,7 @@
         "name": "Elena Francisca Verdu"
       }
     ],
-    "sel_team": [
-      "eq1"
-    ]
+    "sel_team": []
   },
   {
     "doi": "10.1016/j.chom.2019.03.008",
@@ -6160,62 +6444,6 @@
     ]
   },
   {
-    "doi": "10.1038/s41590-019-0493-z",
-    "title": "House dust mites activate nociceptor\u2013mast cell clusters to drive type 2 skin inflammation",
-    "year": 2019,
-    "type": "article",
-    "journal": "Nature Immunology",
-    "authors": [
-      {
-        "name": "Nadine Serhan"
-      },
-      {
-        "name": "Lilian Basso"
-      },
-      {
-        "name": "Riccardo Sibilano"
-      },
-      {
-        "name": "Camille Petitfils"
-      },
-      {
-        "name": "James Meixiong"
-      },
-      {
-        "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
-        "team": "eq1"
-      },
-      {
-        "name": "Laurent Lionel Reber"
-      },
-      {
-        "name": "Thomas Marichal"
-      },
-      {
-        "name": "Philipp M. Starkl"
-      },
-      {
-        "name": "Nicolas C\u00e9nac"
-      },
-      {
-        "name": "Xinzhong Dong"
-      },
-      {
-        "name": "Mindy M Tsai"
-      },
-      {
-        "name": "Stephen Joseph Galli"
-      },
-      {
-        "name": "Nicolas Gaudenzio"
-      }
-    ],
-    "sel_team": [
-      "eq1"
-    ]
-  },
-  {
     "doi": "10.1038/s41467-019-11140-w",
     "title": "Active thrombin produced by the intestinal epithelium controls mucosal biofilms",
     "year": 2019,
@@ -6247,7 +6475,7 @@
       },
       {
         "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
+        "id": "chrystelle.bonnart",
         "team": "eq1"
       },
       {
@@ -6313,8 +6541,8 @@
       }
     ],
     "sel_team": [
-      "platform-digestive",
-      "platform-organoid"
+      "platform-organoid",
+      "platform-digestive"
     ]
   },
   {
@@ -6356,7 +6584,7 @@
       },
       {
         "name": "Chrystelle Bonnart",
-        "id": "chrystelle.bonnard",
+        "id": "chrystelle.bonnart",
         "team": "eq1"
       },
       {
@@ -6870,9 +7098,7 @@
         "name": "Mauro Perretti"
       }
     ],
-    "sel_team": [
-      "eq1"
-    ]
+    "sel_team": []
   },
   {
     "doi": "10.1182/blood-2017-04-777987",
@@ -6980,56 +7206,6 @@
     ],
     "sel_team": [
       "eqjv"
-    ]
-  },
-  {
-    "doi": "10.1016/j.ijpara.2016.11.010",
-    "title": "Giardia duodenalis induces pathogenic dysbiosis of human intestinal microbiota biofilms",
-    "year": 2017,
-    "type": "article",
-    "journal": "International Journal for Parasitology",
-    "authors": [
-      {
-        "name": "Jennifer Beatty"
-      },
-      {
-        "name": "Sarah V. Akierman"
-      },
-      {
-        "name": "Jean\u2010Paul Motta",
-        "id": "jean-paul.motta",
-        "team": "eq1"
-      },
-      {
-        "name": "Stacy S. R. Muise"
-      },
-      {
-        "name": "Matthew L. Workentine"
-      },
-      {
-        "name": "Joe Jonathan Harrison"
-      },
-      {
-        "name": "Amol Bhargava"
-      },
-      {
-        "name": "Paul L. Beck"
-      },
-      {
-        "name": "Kevin P. Rioux"
-      },
-      {
-        "name": "G. Webb McKnight"
-      },
-      {
-        "name": "John Lawrence Wallace"
-      },
-      {
-        "name": "Andr\u00e9 G. Buret"
-      }
-    ],
-    "sel_team": [
-      "eq1"
     ]
   },
   {
@@ -7237,9 +7413,7 @@
         "team": "eq1"
       }
     ],
-    "sel_team": [
-      "eq1"
-    ]
+    "sel_team": []
   },
   {
     "doi": "10.15252/embj.201695028",
@@ -7338,44 +7512,6 @@
     ],
     "sel_team": [
       "eq5"
-    ]
-  },
-  {
-    "doi": "10.1053/j.gastro.2016.02.028",
-    "title": "The Intestinal Microenvironment and Functional Gastrointestinal Disorders",
-    "year": 2016,
-    "type": "article",
-    "journal": "Gastroenterology",
-    "authors": [
-      {
-        "name": "Giovanni Barbara"
-      },
-      {
-        "name": "Christine Feinle\u2010Bisset"
-      },
-      {
-        "name": "Uday C. Ghoshal"
-      },
-      {
-        "name": "Javier Santos"
-      },
-      {
-        "name": "S Vanner"
-      },
-      {
-        "name": "Nathalie Vergnolle",
-        "id": "nathalie.vergnolle",
-        "team": "eq1"
-      },
-      {
-        "name": "Erwin G. Zoetendal"
-      },
-      {
-        "name": "Eamonn M.M. Quigley"
-      }
-    ],
-    "sel_team": [
-      "eq1"
     ]
   },
   {

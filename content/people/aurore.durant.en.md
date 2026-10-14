@@ -1,10 +1,10 @@
 ---
 title: "Aurore Durant"
-layout: people
+layout: "people"
 team: "eq2"
 image: "images/people/aurore.durant.png"
 subteam: "genotoxins"
-team2: "genotoxins"
+team2: ""
 email: "aurore.durant@inserm.fr"
 phone: ""
 room: ""
@@ -13,6 +13,7 @@ alumni: ""
 position: "PhD student"
 position2: ""
 alumni_position: ""
+selected_dois: ""
 ---
 
 
