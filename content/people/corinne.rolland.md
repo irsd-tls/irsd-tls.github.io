@@ -1,5 +1,5 @@
 ---
-title: "Corrine Roland"
+title: "Corine Rolland"
 layout: "people"
 team: "eq1"
 image: "images/people/corinne.rolland.png"
