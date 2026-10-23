@@ -730,6 +730,34 @@
     ]
   },
   {
+    "doi": "10.64898/2026.07.22.739131",
+    "title": "Evolution of regulatory chromatin contacts: insights from duplicated genes",
+    "year": 2026,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Victor Lefebvre",
+        "id": "victor.lefebvre",
+        "team": "eq4"
+      },
+      {
+        "name": "Sylvain Foissac"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Anamaria Nec\u015fulea"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
     "doi": "10.1016/j.ajhg.2025.01.002",
     "title": "Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection",
     "year": 2025,
@@ -1808,9 +1836,9 @@
       }
     ],
     "sel_team": [
-      "platform-organoid",
       "eq1",
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
@@ -4917,9 +4945,9 @@
       }
     ],
     "sel_team": [
-      "platform-organoid",
       "eq1",
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
@@ -5819,9 +5847,9 @@
       }
     ],
     "sel_team": [
-      "platform-organoid",
       "eq1",
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
@@ -6541,8 +6569,8 @@
       }
     ],
     "sel_team": [
-      "platform-organoid",
-      "platform-digestive"
+      "platform-digestive",
+      "platform-organoid"
     ]
   },
   {
