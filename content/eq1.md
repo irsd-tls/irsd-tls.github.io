@@ -8,7 +8,7 @@ team: eq1
 leader:
   - nathalie.vergnolle
   - celine.deraison
-image: images/eq1/banner_eq1.jpg
+image: images/eq1/banner.jpg
 image_alt: "Equipe 1 IRSD"
 tags: ["protease"]
 ---

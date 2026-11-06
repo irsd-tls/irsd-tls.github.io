@@ -7,7 +7,7 @@ layout: team
 team: eq6
 leader:
   - frederick.barreau
-image: images/eq6/banner_eq6.jpg
+image: images/eq6/banner.jpg
 image_alt: "Equipe 6 IRSD"
 tags: ["environment"]
 ---

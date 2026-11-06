@@ -7,7 +7,7 @@ layout: team
 team: eq2
 leader:
   - eric.oswald
-image: images/eq2/banner_eq2.jpg
+image: images/eq2/banner.jpg
 image_alt: "Equipe 2 IRSD"
 ---
 

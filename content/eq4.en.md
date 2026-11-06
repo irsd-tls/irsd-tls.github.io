@@ -8,7 +8,7 @@ team: eq4
 leader:
   - sarah.djebali
   - jean.monlong
-image: images/eq4/banner_eq4.png
+image: images/eq4/banner.png
 image_alt: "Team 4 IRSD"
 tags: ["bioinformatics"]
 ---

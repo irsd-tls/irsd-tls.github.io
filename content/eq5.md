@@ -7,7 +7,7 @@ layout: team
 team: eq5
 leader:
   - leon.kautz
-image: images/eq5/banner_eq5.jpg
+image: images/eq5/banner.jpg
 image_alt: "Equipe 5 IRSD"
 ---
 
