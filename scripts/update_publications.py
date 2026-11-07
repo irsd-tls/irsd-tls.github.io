@@ -123,6 +123,13 @@ for doi in cache:
     swork['title'] = swork['title'].replace(' <scp>', '').replace('</scp>', '')
     # other informations
     swork['year'] = work['publication_year']
+    if 'publication_date' in work:
+        swork['date'] = work['publication_date']
+    else:
+        swork['date'] = '{}-01-01'.format(swork['year'])
+    swork['date_r'] = float(swork['year'])
+    swork['date_r'] += float(swork['date'].split('-')[1]) / 100
+    swork['date_r'] += float(swork['date'].split('-')[2]) / 10000
     swork['type'] = work['type']
     swork['journal'] = work['primary_location']['raw_source_name']
     if swork['journal'] is not None:
@@ -162,7 +169,7 @@ for doi in cache:
 print('{} publications prepared.'.format(len(res)))
 
 # sort by year
-res_o = sorted(res, key=lambda k: -k['year'])
+res_o = sorted(res, key=lambda k: -k['date_r'])
 
 with open('pubs.json', 'wt') as pubs_outf:
     json.dump(res_o, pubs_outf, indent=2)
