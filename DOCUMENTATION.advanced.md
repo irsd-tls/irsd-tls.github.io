@@ -1,4 +1,4 @@
-# Documentation avancée
+k# Documentation avancée
 
 ## Tester le site localement
 
@@ -10,9 +10,16 @@ Une fois installé, le site peut-être "compilé" et ouvert localement dans un n
 hugo server --disableFastRender
 ```
 
+## Scripts pour la préparation des publications
+
+Voir [scripts/README.md](scripts/README.md).
+
 ## Icon de Font Awesome
 
-https://fontawesome.com/v5/search
+Dans certaines pages, on peut utiliser des icon de FontAwesome. 
+Le site utilise la version 5: [https://fontawesome.com/v5/search](https://fontawesome.com/v5/search).
+
+On utilise ces icones pour les informations des membres, par exemples.
 
 ## Menus
 
@@ -26,7 +33,7 @@ https://fontawesome.com/v5/search
 - Liste des plateformes [`data/fr/platforms.yml`](data/fr/platforms.yml)/[`data/en/platforms.yml`](data/en/platforms.yml)
 - Liste des services [`data/fr/services.yml`](data/fr/services.yml)/[`data/en/services.yml`](data/en/services.yml)
 
-## List de membres d'une équipe
+## Liste de membres d'une équipe
 
 Le shortcode qui s'utilise avec `{{< people-list >}}` est défini dans [layouts/shortcodes/people-list.html](layouts/shortcodes/people-list.html).
 
@@ -48,21 +55,8 @@ Pour les anciens membres: `{{< former-people-list >}}` défini dans [layouts/sho
 - Pour une équipe : [layouts/shortcodes/team-publications.html](layouts/shortcodes/team-publications.html)
 - Pour un membre : [layouts/shortcodes/people-publications.html](layouts/shortcodes/people-publications.html)
 
-## Scripts automatiques
-
-Voir [scripts/README.md](scripts/README.md).
-
 # TODO list
 
 1. Fix le bug avec les listes de gens https://github.com/metafizzy/isotope/issues/1575
 2. Mettre en place une fonctionnalité de galerie d'image
 3. Améliorer la gestion des membres et alumnis, en prenant en compte la période d'activité pour les publications ?
-
-# Pour gérer les publications
-
-*En cours de rédaction*
-
-- `oa_id` l'identifiant OpenAlex à utiliser pour extraire périodiquement les publications. 
-    - Chercher sur [OpenAlex](https://openalex.org/) puis utiliser l'identifiant dans l'adresse de la page *Author*, par exemple *a5048124649* pour [https://openalex.org/authors/a5048124649](https://openalex.org/authors/a5048124649).
-- `selected_dois` liste de DOIs des publications à afficher en priorité sur la page perso/équipe. 
-    - Séparés par `;` sans espaces, par exemple: `10.1038/s41586-023-05896-x;10.1126/science.abg8871;10.1186/s13059-020-1941-7`.

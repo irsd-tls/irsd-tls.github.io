@@ -14,6 +14,7 @@ selected_dois: ""
 weight: "27"
 team2: ""
 position2: ""
+oa_id: "A5073649059"
 ---
 
 

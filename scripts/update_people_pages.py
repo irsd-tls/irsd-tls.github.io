@@ -72,7 +72,7 @@ def updatePage(page_path, ainfo, lang='fr'):
                 if header_def == 1:
                     # we're about to close the header, add missing/new optional fields
                     for ff in ['email', 'phone', 'room', 'alumni',
-                               'subteam', 'selected_dois', 'team2']:
+                               'subteam', 'selected_dois', 'oa_id', 'team2']:
                         if ff in ainfo and ff not in header_fields:
                             out_l.append('{}: "{}"\n'.format(ff, ainfo[ff]))
                     if 'rank' in ainfo and int(ainfo['rank']) != 1 and 'weight' not in header_fields:

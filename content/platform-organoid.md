@@ -7,6 +7,18 @@ layout: team
 team: platform-organoid
 image: images/platform-organoid/banner.webp
 image_alt: "Organoid IRSD"
+selected_dois:
+  - "10.1111/nmo.70157"
+  - "10.1111/bph.70100"
+  - "10.1093/humrep/deae258"
+  - "10.1111/bph.17408"
+  - "10.1111/bph.16341"
+  - "10.1016/j.bmc.2023.117366"
+  - "10.1152/ajpgi.00061.2022"
+  - "10.1038/s41385-021-00375-w"
+  - "10.1093/ecco-jcc/jjaa229"
+  - "10.1186/s13293-019-0262-6"
+  - "10.1038/s41467-019-11140-w"
 ---
 
 ## Mission générale

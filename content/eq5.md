@@ -9,6 +9,19 @@ leader:
   - leon.kautz
 image: images/eq5/banner.jpg
 image_alt: "Equipe 5 IRSD"
+selected_dois:
+  - "10.1172/jci169152"
+  - "10.1016/j.devcel.2025.05.008"
+  - "10.1182/blood.2023022724"
+  - "10.1126/sciadv.abg9055"
+  - "10.1371/journal.ppat.1010619"
+  - "10.1126/scitranslmed.abe2587"
+  - "10.1038/s41586-021-03703-z"
+  - "10.1182/blood.2019004653"
+  - "10.1126/scitranslmed.aav5467"
+  - "10.14814/phy2.13890"
+  - "10.1182/blood-2017-04-777987"
+  - "10.1002/ajh.24672"
 ---
 
 Mot-clés : Erythroferrone, Anémie, Thérapie, Communication inter-organes ​

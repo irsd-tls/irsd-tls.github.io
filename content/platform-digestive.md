@@ -9,6 +9,13 @@ leader:
   - perrine.rousset
 image: images/platform-digestive/banner.webp
 image_alt: "Modèles Digestifs IRSD"
+selected_dois:
+  - "10.1080/19490976.2026.2687903"
+  - "10.1111/nmo.70157"
+  - "10.1038/s41385-021-00375-w"
+  - "10.1093/ecco-jcc/jjaa229"
+  - "10.1038/s41467-019-11140-w"
+  - "10.1136/gutjnl-2015-310230"
 ---
 
 {{< button "people/perrine.rousset" "Contact" >}}

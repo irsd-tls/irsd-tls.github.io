@@ -14,6 +14,7 @@ alumni_position: ""
 weight: "12"
 team2: ""
 position2: ""
+oa_id: "A5073106625"
 ---
 
 

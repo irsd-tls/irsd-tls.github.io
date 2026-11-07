@@ -10,6 +10,20 @@ leader:
   - celine.deraison
 image: images/eq1/banner.jpg
 image_alt: "Equipe 1 IRSD"
+selected_dois:
+  - "10.3389/fcell.2020.00363"
+  - "10.1093/ecco-jcc/jjaa229"
+  - "10.1038/s41385-021-00375-w"
+  - "10.3390/cells10020225"
+  - "10.3389/fcell.2020.622048"
+  - "10.1111/bph.15800"
+  - "10.1111/bph.15985"
+  - "10.1111/bph.16341"
+  - "10.1111/bcp.15878"
+  - "10.1038/s41598-024-65485-4"
+  - "10.1111/nmo.70157"
+  - "10.1146/annurev-pharmtox-051921-084536"
+  - "10.1038/s41575-025-01129-w"
 tags: ["protease"]
 ---
 
