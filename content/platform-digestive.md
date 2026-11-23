@@ -7,7 +7,7 @@ layout: team
 team: platform-digestive
 leader:
   - perrine.rousset
-image: images/platform-digestive/banner.webp
+image: images/platform-digestive/banner.jpg
 image_alt: "Modèles Digestifs IRSD"
 selected_dois:
   - "10.1080/19490976.2026.2687903"

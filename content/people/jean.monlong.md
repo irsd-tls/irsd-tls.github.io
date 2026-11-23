@@ -25,13 +25,13 @@ position2: ""
 
 ## Mini-CV
 
-- J’ai obtenu mon diplôme de l’**École nationale supérieure d'informatique et de mathématiques appliquées (ENSIMAG) à Grenoble**, avec une spécialisation en bioinformatique.
-- Mes études d’ingénieur se sont conclues par un projet de recherche sur l’épissage alternatif à partir de données de séquençage d’ARN au **Centre de régulation génomique (CRG) à Barcelone (Espagne)**, sous la direction du Dr Roderic Guigó.
-- Lors de ma thèse, j’ai développé des méthodes pour détecter et étudier les variations du nombre de copies dans des cohortes humaines à partir de données de séquençage de génomes complets, au sein du laboratoire du Dr Guillaume Bourque, à **l’Université McGill, à Montréal (Canada)**.
-- En tant que postdoctorant, j’ai combiné mon intérêt pour les variations structurelles avec les nouvelles méthodes pangénomiques en développement à **l’Université de Californie, Santa Cruz (UCSC)**, au sein du laboratoire de génomique computationnelle du Dr Benedict Paten, à Santa Cruz (États-Unis).
-- J’ai rejoint l’INSERM en tant que CRCN en mai 2023. Je continuerai à développer et à utiliser des approches pangénomiques pour étudier les variations structurelles, en mettant davantage l’accent sur la caractérisation de leur impact fonctionnel, notamment dans un contexte pathologique.
+- J'ai obtenu mon diplôme de l'**École nationale supérieure d'informatique et de mathématiques appliquées (ENSIMAG) à Grenoble**, avec une spécialisation en bioinformatique.
+- Mes études d'ingénieur se sont conclues par un projet de recherche sur l'épissage alternatif à partir de données de séquençage d'ARN au **Centre de régulation génomique (CRG) à Barcelone (Espagne)**, sous la direction du Dr Roderic Guigó.
+- Lors de ma thèse, j'ai développé des méthodes pour détecter et étudier les variations du nombre de copies dans des cohortes humaines à partir de données de séquençage de génomes complets, au sein du laboratoire du Dr Guillaume Bourque, à **l'Université McGill, à Montréal (Canada)**.
+- En tant que postdoctorant, j'ai combiné mon intérêt pour les variations structurelles avec les nouvelles méthodes pangénomiques en développement à **l'Université de Californie, Santa Cruz (UCSC)**, au sein du laboratoire de génomique computationnelle du Dr Benedict Paten, à Santa Cruz (États-Unis).
+- J'ai rejoint l'INSERM en tant que CRCN en mai 2023. Je continuerai à développer et à utiliser des approches pangénomiques pour étudier les variations structurelles, en mettant davantage l'accent sur la caractérisation de leur impact fonctionnel, notamment dans un contexte pathologique.
 
-Pour plus d’informations actualisées, de publications, etc., consultez [jmonlong.github.io/](https://jmonlong.github.io/).
+Pour plus d'informations actualisées, de publications, etc., consultez [jmonlong.github.io/](https://jmonlong.github.io/).
 
 *Expertise* : Génomique, analyse de variants, pangénomique.
 
